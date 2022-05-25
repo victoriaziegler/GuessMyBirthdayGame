@@ -9,7 +9,7 @@ month = randint(1, 12)
 year = randint(1924, 2004)
 
 print("Guess", guess_number, ": ", name, "were you born in ", month, " / ", year, "?")
-guess = input("yes or no?")
+guess = input("yes or no? ")
 
 if guess == "yes":
     print("I knew it!")
@@ -25,7 +25,7 @@ month = randint(1, 12)
 year = randint(1924, 2004)
 
 print("Guess", guess_number, ": ", name, "were you born in ", month, " / ", year, "?")
-guess = input("yes or no?")
+guess = input("yes or no? ")
 
 if guess == "yes":
     print("I knew it!")
@@ -41,7 +41,7 @@ month = randint(1, 12)
 year = randint(1924, 2004)
 
 print("Guess", guess_number, ": ", name, "were you born in ", month, " / ", year, "?")
-guess = input("yes or no?")
+guess = input("yes or no? ")
 
 if guess == "yes":
     print("I knew it!")
@@ -57,7 +57,7 @@ month = randint(1, 12)
 year = randint(1924, 2004)
 
 print("Guess", guess_number, ": ", name, "were you born in ", month, " / ", year, "?")
-guess = input("yes or no?")
+guess = input("yes or no? ")
 
 if guess == "yes":
     print("I knew it!")
@@ -73,7 +73,7 @@ month = randint(1, 12)
 year = randint(1924, 2004)
 
 print("Guess", guess_number, ": ", name, "were you born in ", month, " / ", year, "?")
-guess = input("yes or no?")
+guess = input("yes or no? ")
 
 if guess == "yes":
     print("I knew it!")
